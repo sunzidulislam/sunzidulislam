@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Sunzidul Islam</h1>
-<h3 align="center">I am a passionate aspiring AI engineer with a strong focus on Retrieval-Augmented Generation (RAG) using Large Language Models (LLMs). My interests lie in building intelligent, scalable systems that effectively combine retrieval techniques with generative AI to solve real-world problems. In addition to my work in AI, I also have hands-on experience in both frontend and backend development, enabling me to contribute across the full stack—from crafting intuitive user interfaces to developing robust server-side architectures.</h3>
+<h3 align="center">I am an Assistant Programmer at iAutomationBD, Dhaka, Bangladesh. Previously, I worked as a Junior Data Scientist at ConneqtedAgents for 10 months. I received my Bachelor’s degree in Computer Science and Engineering from KUET (Khulna University of Engineering & Technology) in 2025. I have hands-on experience in both academic research and software engineering, gained through roles as a Research Assistant and Teaching Assistant across various institutions.
+
+Currently, I am also a Research Collaborator at the SPEED Lab (Florida Atlantic University, USA) under the supervision of Ahmed Imtaj. My research focuses on Vision-Language Models (VLM), Retrieval-Augmented Generation (RAG), Diffusion Models, and Federated Learning. I am passionate about bridging research innovation with scalable engineering to build robust, next-generation AI systems.
+
+I am open to research collaborations with any research group, lab, or industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunzidulislam&label=Profile%20views&color=0e75b6&style=flat" alt="sunzidulislam" /> </p>
 
